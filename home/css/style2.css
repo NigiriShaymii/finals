@@ -49,3 +49,7 @@ p {
   line-height: 50px;
   text-shadow: 4px 4px 5px #0E224C;
 }
+
+video {
+  padding: 50px 0;
+}
