@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+padding: 0;
+}
+
+body {
+  width: 100%;
+	height: 100%;
+	margin:0;
+	background-color: black;
+	line-height: 1.8em;
+	font-family: 'Dokdo';
+  background: black;
+}
+
+.mar {
+  margin: 0 300px;
+}
+
+.bord {
+  border: 0;
+}
+
+.pad {
+  padding: 50px;
+}
+
+h1 {
+  text-align: center;
+  padding: 50px 0 ;
+  color: #d01a1a;
+  text-shadow: 4px 4px 5px #0E224C;
+  font-size: 80px;
+}
+
+h2 {
+  text-align: center;
+  font-size: 50px;
+  padding: 50px 0;
+  color:#d01a1a;
+  text-shadow: 4px 4px 5px #0E224C;
+}
+
+p {
+  color: #c7a205;
+  text-align: center;
+  font-size: 25px;
+  padding: 50px;
+  line-height: 50px;
+  text-shadow: 4px 4px 5px #0E224C;
+}
